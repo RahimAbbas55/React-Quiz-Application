@@ -18,6 +18,8 @@ This is a project built in React framework. This application serves as a quiz ap
 
 -> There is a progress bar that shows you progression along with your acquired score out of total score.
 
+-> This project is built totally using the "**useReducer** & **useEffect**" hook. Use Reducer is used for efficient state management and useEffect is used for making API calls. You can find the related documentation here. [React Hooks](https://legacy.reactjs.org/docs/hooks-reference.html)
+
 # Project Images:
 
 ### Homepage:
@@ -35,9 +37,29 @@ This is a project built in React framework. This application serves as a quiz ap
 <img width="1387" alt="Screenshot 2024-07-09 at 5 22 35 PM" src="https://github.com/RahimAbbas55/React-Quiz-Application/assets/101935846/cf4efd79-41a9-4f16-b791-4e0a0761c266">
 
 
-## NOTE: To get better understanding of "json-server", you can visit the site [JSON-SERVER](https://www.npmjs.com/package/json-server).
+### NOTE: To get better understanding of "json-server", you can visit the site [JSON-SERVER](https://www.npmjs.com/package/json-server).
 
-# Getting Started with Create React App
+
+# Final Remarks:
+
+-> If you want a seamless experience with the project, simply download the project.
+
+-> Open the project in your IDE.
+
+-> Open terminal, write the following command **npm** **instal** **json-server**.(Make sure your have latest version of node installed.)
+
+-> Once the json-server is download, open 2 terminal screen in your IDE
+
+-> Write the following command in one terminal "**npm** **start**" to start the React app & "**npm** **server** **run**" to start your dummy API on your local machine.
+
+-> Refresh your React app page and enjoy!
+
+Feel free to use the project and in case of any queries or confusion related to the project, reach me out. 
+
+Happy Coding😊
+
+# <- If you are unfamiliar with how to start React projects->
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
